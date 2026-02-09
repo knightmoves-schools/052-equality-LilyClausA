@@ -1,6 +1,6 @@
 let priceCheck = function('price'){
-    if ('price') === 1.50;
-    return ('string match');
+    if ('price' === 1.50);
+    return 'match';
 }
 
 
