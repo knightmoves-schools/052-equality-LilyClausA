@@ -1,5 +1,5 @@
 function priceCheck(price){
-    if ('price' === 1.50){
+    if (price === 1.50){
         return "match";
         document.getElementById("result").innerHTML = priceCheck;
     }
